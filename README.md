@@ -1,7 +1,7 @@
 # Gojek x Gopay Bot
 
 - DM for open source project
-- License 250k IDR/mont
+- License 250k IDR/month
 - Updated menu(s) only for license user
 
 Terbuka untuk diskusi, dm saya di
